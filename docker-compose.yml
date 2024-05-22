@@ -1,9 +1,0 @@
-version: '3.7'
-services:
-  app:
-    build:
-      context: ./
-      args:
-        APT_SOURCE_BASE: ftp.jaist.ac.jp/pub/Linux/ubuntu/
-    volumes:
-      - ./:/app

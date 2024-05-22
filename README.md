@@ -1,7 +1,7 @@
 python-skeleton
 ==
 
-Python3 + Rye + Dockerを使ったプロジェクトのベースのテンプレート
+Python3 + Ryeを使ったプロジェクトのテンプレート
 
 ## Setup
 
