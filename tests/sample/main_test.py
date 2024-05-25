@@ -2,4 +2,4 @@ import sample
 
 
 def test_hello():
-    assert sample.hello("taro") == "Hello hanako"
+    assert sample.hello("taro") == "Hello taro"
